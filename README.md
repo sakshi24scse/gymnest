@@ -1,5 +1,10 @@
 # Gymnest – Java GUI Gym Management System
 
+***Team Members*** 
+Sakshi Jha - 24SCSE1180734
+Abhinav Pal - 24SCSE1180726
+Chaudhary HarshVardhan - 24SCSE1180567
+
 Gymnest is a Java Swing-based Gym Management System designed for academic project submission (Review 1). It features basic database connectivity and project structure setup.
 
 ## 📁 Folder Structure
